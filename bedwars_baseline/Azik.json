@@ -1,0 +1,32 @@
+{
+  "wins": 9588,
+  "losses": 5219,
+  "WLR": 1.837,
+  "winstreak": null,
+  "modes": {
+    "solos": {
+      "wins": 3587,
+      "losses": 3068,
+      "WLR": 1.169,
+      "winstreak": null
+    },
+    "doubles": {
+      "wins": 2431,
+      "losses": 1464,
+      "WLR": 1.661,
+      "winstreak": null
+    },
+    "threes": {
+      "wins": 865,
+      "losses": 292,
+      "WLR": 2.962,
+      "winstreak": null
+    },
+    "fours": {
+      "wins": 1518,
+      "losses": 360,
+      "WLR": 4.217,
+      "winstreak": null
+    }
+  }
+}

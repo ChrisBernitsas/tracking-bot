@@ -1,0 +1,245 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757624456414_BEDWARS_EIGHT_TWO_Nebuc",
+      "timestamp": 1757624456414,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757624177669_BEDWARS_EIGHT_TWO_Nebuc",
+      "timestamp": 1757624177669,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757623011125_BEDWARS_FOUR_FOUR_Archway",
+      "timestamp": 1757623011125,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1757439530932_BEDWARS_EIGHT_TWO_Nebuc",
+      "timestamp": 1757439530932,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757439102386_BEDWARS_EIGHT_TWO_Nebuc",
+      "timestamp": 1757439102386,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757438657462_BEDWARS_EIGHT_TWO_Nebuc",
+      "timestamp": 1757438657462,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757437448420_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Sep 09, 2025 01:04 PM",
+      "timestamp": 1757437448420,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1757437108281_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Sep 09, 2025 12:58 PM",
+      "timestamp": 1757437108281,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1757436677905_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Sep 09, 2025 12:51 PM",
+      "timestamp": 1757436677905,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1757360807146_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Sep 08, 2025 03:46 PM",
+      "timestamp": 1757360807146,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1757360490158_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Sep 08, 2025 03:41 PM",
+      "timestamp": 1757360490158,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757360018888_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Sep 08, 2025 03:33 PM",
+      "timestamp": 1757360018888,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1757249125739_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Sep 07, 2025 08:45 AM",
+      "timestamp": 1757249125739,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1757249087689_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Sep 07, 2025 08:44 AM",
+      "timestamp": 1757249087689,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1756662023227_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 31, 2025 01:40 PM",
+      "timestamp": 1756662023227,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1756661982027_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 31, 2025 01:39 PM",
+      "timestamp": 1756661982027,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1756661386605_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 31, 2025 01:29 PM",
+      "timestamp": 1756661386605,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1756494092485_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 29, 2025 03:01 PM",
+      "timestamp": 1756494092485,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1756494047871_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 29, 2025 03:00 PM",
+      "timestamp": 1756494047871,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1756493983141_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Aug 29, 2025 02:59 PM",
+      "timestamp": 1756493983141,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1755288369239_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 15, 2025 01:06 PM",
+      "timestamp": 1755288369239,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1755287887349_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 15, 2025 12:58 PM",
+      "timestamp": 1755287887349,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1755203735146_BEDWARS_TWO_ONE_DUELS_RUSH_Mirage",
+      "date": "Aug 14, 2025 01:35 PM",
+      "timestamp": 1755203735146,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Mirage"
+    },
+    {
+      "game_id": "1755203217209_BEDWARS_TWO_ONE_DUELS_RUSH_Outpost",
+      "date": "Aug 14, 2025 01:26 PM",
+      "timestamp": 1755203217209,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Outpost"
+    },
+    {
+      "game_id": "1755203163904_BEDWARS_TWO_ONE_DUELS_RUSH_Courtyard",
+      "date": "Aug 14, 2025 01:26 PM",
+      "timestamp": 1755203163904,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Courtyard"
+    },
+    {
+      "game_id": "1754859057328_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 10, 2025 01:50 PM",
+      "timestamp": 1754859057328,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1754858755889_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 10, 2025 01:45 PM",
+      "timestamp": 1754858755889,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1754856100293_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Aug 10, 2025 01:01 PM",
+      "timestamp": 1754856100293,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754856007737_BEDWARS_EIGHT_TWO_Cascade",
+      "date": "Aug 10, 2025 01:00 PM",
+      "timestamp": 1754856007737,
+      "mode": "doubles",
+      "map": "Cascade"
+    },
+    {
+      "game_id": "1754855913087_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Aug 10, 2025 12:58 PM",
+      "timestamp": 1754855913087,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754645039164_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Aug 08, 2025 02:23 AM",
+      "timestamp": 1754645039164,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754644058571_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Aug 08, 2025 02:07 AM",
+      "timestamp": 1754644058571,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754596028641_BEDWARS_FOUR_FOUR_Invasion",
+      "date": "Aug 07, 2025 12:47 PM",
+      "timestamp": 1754596028641,
+      "mode": "fours",
+      "map": "Invasion"
+    },
+    {
+      "game_id": "1754592452312_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 07, 2025 11:47 AM",
+      "timestamp": 1754592452312,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1754581613937_BEDWARS_FOUR_FOUR_Antenna",
+      "date": "Aug 07, 2025 08:46 AM",
+      "timestamp": 1754581613937,
+      "mode": "fours",
+      "map": "Antenna"
+    }
+  ],
+  "api_enabled": true,
+  "last_updated": "Sep 09, 2025 01:05 PM"
+}

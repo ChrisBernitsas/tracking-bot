@@ -1,0 +1,149 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757561390977_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757561390977,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757556620905_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757556620905,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757556230040_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757556230040,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757473664388_BEDWARS_EIGHT_ONE_Cascade",
+      "timestamp": 1757473664388,
+      "mode": "solos",
+      "map": "Cascade"
+    },
+    {
+      "game_id": "1757473154151_BEDWARS_EIGHT_ONE_Dragon Light",
+      "timestamp": 1757473154151,
+      "mode": "solos",
+      "map": "Dragon Light"
+    },
+    {
+      "game_id": "1757472831938_BEDWARS_EIGHT_ONE_Dragon Light",
+      "timestamp": 1757472831938,
+      "mode": "solos",
+      "map": "Dragon Light"
+    },
+    {
+      "game_id": "1757466624344_BEDWARS_EIGHT_ONE_Dragon Light",
+      "timestamp": 1757466624344,
+      "mode": "solos",
+      "map": "Dragon Light"
+    },
+    {
+      "game_id": "1757466242642_BEDWARS_EIGHT_ONE_Dragon Light",
+      "timestamp": 1757466242642,
+      "mode": "solos",
+      "map": "Dragon Light"
+    },
+    {
+      "game_id": "1757445199893_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757445199893,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757444949840_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757444949840,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757444686641_BEDWARS_EIGHT_ONE_Gelato",
+      "timestamp": 1757444686641,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1754975373921_BEDWARS_EIGHT_ONE_Gelato",
+      "date": "Aug 11, 2025 10:09 PM",
+      "timestamp": 1754975373921,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1754975061632_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 10:04 PM",
+      "timestamp": 1754975061632,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754974798440_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 09:59 PM",
+      "timestamp": 1754974798440,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754963357729_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 06:49 PM",
+      "timestamp": 1754963357729,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754963065348_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 06:44 PM",
+      "timestamp": 1754963065348,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754962806541_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 06:40 PM",
+      "timestamp": 1754962806541,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754962493158_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 06:34 PM",
+      "timestamp": 1754962493158,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754962237233_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 11, 2025 06:30 PM",
+      "timestamp": 1754962237233,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754711920553_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 08, 2025 08:58 PM",
+      "timestamp": 1754711920553,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754711646038_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 08, 2025 08:54 PM",
+      "timestamp": 1754711646038,
+      "mode": "solos",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1754711392126_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 08, 2025 08:49 PM",
+      "timestamp": 1754711392126,
+      "mode": "solos",
+      "map": "Slumber"
+    }
+  ],
+  "api_enabled": true,
+  "last_updated": "Aug 31, 2025 02:15 PM"
+}

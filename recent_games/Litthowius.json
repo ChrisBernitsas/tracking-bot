@@ -1,0 +1,153 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757254977008_BEDWARS_EIGHT_ONE_Vigilante",
+      "date": "Sep 07, 2025 10:22 AM",
+      "timestamp": 1757254977008,
+      "mode": "solos",
+      "map": "Vigilante"
+    },
+    {
+      "game_id": "1757254543850_BEDWARS_EIGHT_ONE_Arcade",
+      "date": "Sep 07, 2025 10:15 AM",
+      "timestamp": 1757254543850,
+      "mode": "solos",
+      "map": "Arcade"
+    },
+    {
+      "game_id": "1757254217817_BEDWARS_EIGHT_ONE_Gelato",
+      "date": "Sep 07, 2025 10:10 AM",
+      "timestamp": 1757254217817,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756633168175_BEDWARS_EIGHT_ONE_Retreat",
+      "date": "Aug 31, 2025 05:39 AM",
+      "timestamp": 1756633168175,
+      "mode": "solos",
+      "map": "Retreat"
+    },
+    {
+      "game_id": "1756628802080_BEDWARS_EIGHT_ONE_Speedway",
+      "date": "Aug 31, 2025 04:26 AM",
+      "timestamp": 1756628802080,
+      "mode": "solos",
+      "map": "Speedway"
+    },
+    {
+      "game_id": "1756628143903_BEDWARS_EIGHT_ONE_Speedway",
+      "date": "Aug 31, 2025 04:15 AM",
+      "timestamp": 1756628143903,
+      "mode": "solos",
+      "map": "Speedway"
+    },
+    {
+      "game_id": "1756491178704_BEDWARS_EIGHT_ONE_Speedway",
+      "date": "Aug 29, 2025 02:12 PM",
+      "timestamp": 1756491178704,
+      "mode": "solos",
+      "map": "Speedway"
+    },
+    {
+      "game_id": "1756490721724_BEDWARS_EIGHT_ONE_Arcade",
+      "date": "Aug 29, 2025 02:05 PM",
+      "timestamp": 1756490721724,
+      "mode": "solos",
+      "map": "Arcade"
+    },
+    {
+      "game_id": "1756490290438_BEDWARS_EIGHT_ONE_Gelato",
+      "date": "Aug 29, 2025 01:58 PM",
+      "timestamp": 1756490290438,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1755269619351_BEDWARS_EIGHT_ONE_Hollow",
+      "date": "Aug 15, 2025 07:53 AM",
+      "timestamp": 1755269619351,
+      "mode": "solos",
+      "map": "Hollow"
+    },
+    {
+      "game_id": "1755269240695_BEDWARS_EIGHT_ONE_Vigilante",
+      "date": "Aug 15, 2025 07:47 AM",
+      "timestamp": 1755269240695,
+      "mode": "solos",
+      "map": "Vigilante"
+    },
+    {
+      "game_id": "1755268887663_BEDWARS_EIGHT_ONE_Snails",
+      "date": "Aug 15, 2025 07:41 AM",
+      "timestamp": 1755268887663,
+      "mode": "solos",
+      "map": "Snails"
+    },
+    {
+      "game_id": "1755195927892_BEDWARS_EIGHT_ONE_Gateway",
+      "date": "Aug 14, 2025 11:25 AM",
+      "timestamp": 1755195927892,
+      "mode": "solos",
+      "map": "Gateway"
+    },
+    {
+      "game_id": "1755195573200_BEDWARS_EIGHT_ONE_Pernicious",
+      "date": "Aug 14, 2025 11:19 AM",
+      "timestamp": 1755195573200,
+      "mode": "solos",
+      "map": "Pernicious"
+    },
+    {
+      "game_id": "1755195318575_BEDWARS_EIGHT_ONE_Arcade",
+      "date": "Aug 14, 2025 11:15 AM",
+      "timestamp": 1755195318575,
+      "mode": "solos",
+      "map": "Arcade"
+    },
+    {
+      "game_id": "1754933140812_BEDWARS_EIGHT_ONE_Arcade",
+      "date": "Aug 11, 2025 10:25 AM",
+      "timestamp": 1754933140812,
+      "mode": "solos",
+      "map": "Arcade"
+    },
+    {
+      "game_id": "1754932870166_BEDWARS_EIGHT_ONE_Nebuc",
+      "date": "Aug 11, 2025 10:21 AM",
+      "timestamp": 1754932870166,
+      "mode": "solos",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754932660333_BEDWARS_EIGHT_ONE_Arcade",
+      "date": "Aug 11, 2025 10:17 AM",
+      "timestamp": 1754932660333,
+      "mode": "solos",
+      "map": "Arcade"
+    },
+    {
+      "game_id": "1754827479878_BEDWARS_EIGHT_TWO_Orbit",
+      "date": "Aug 10, 2025 05:04 AM",
+      "timestamp": 1754827479878,
+      "mode": "doubles",
+      "map": "Orbit"
+    },
+    {
+      "game_id": "1754826995070_BEDWARS_EIGHT_TWO_Vigilante",
+      "date": "Aug 10, 2025 04:56 AM",
+      "timestamp": 1754826995070,
+      "mode": "doubles",
+      "map": "Vigilante"
+    },
+    {
+      "game_id": "1754826627293_BEDWARS_EIGHT_TWO_Arcade",
+      "date": "Aug 10, 2025 04:50 AM",
+      "timestamp": 1754826627293,
+      "mode": "doubles",
+      "map": "Arcade"
+    }
+  ],
+  "api_enabled": false,
+  "last_updated": "Sep 09, 2025 01:05 PM"
+}

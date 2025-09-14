@@ -1,0 +1,62 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757182039181_BEDWARS_EIGHT_ONE_Toro",
+      "date": "Sep 06, 2025 02:07 PM",
+      "timestamp": 1757182039181,
+      "mode": "solos",
+      "map": "Toro"
+    },
+    {
+      "game_id": "1756613178476_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Aug 31, 2025 12:06 AM",
+      "timestamp": 1756613178476,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756612766843_BEDWARS_EIGHT_TWO_Slumber",
+      "date": "Aug 30, 2025 11:59 PM",
+      "timestamp": 1756612766843,
+      "mode": "doubles",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1756612336773_BEDWARS_EIGHT_TWO_Speedway",
+      "date": "Aug 30, 2025 11:52 PM",
+      "timestamp": 1756612336773,
+      "mode": "doubles",
+      "map": "Speedway"
+    },
+    {
+      "game_id": "1756318262539_BEDWARS_EIGHT_ONE_Nebuc",
+      "date": "Aug 27, 2025 02:11 PM",
+      "timestamp": 1756318262539,
+      "mode": "solos",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1755297144068_BEDWARS_TWO_ONE_DUELS_RUSH_Courtyard",
+      "date": "Aug 15, 2025 03:32 PM",
+      "timestamp": 1755297144068,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Courtyard"
+    },
+    {
+      "game_id": "1755297104969_BEDWARS_TWO_ONE_DUELS_RUSH_Facility",
+      "date": "Aug 15, 2025 03:31 PM",
+      "timestamp": 1755297104969,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Facility"
+    },
+    {
+      "game_id": "1754835863675_BEDWARS_EIGHT_ONE_Slumber",
+      "date": "Aug 10, 2025 07:24 AM",
+      "timestamp": 1754835863675,
+      "mode": "solos",
+      "map": "Slumber"
+    }
+  ],
+  "api_enabled": false,
+  "last_updated": "Sep 09, 2025 01:05 PM"
+}

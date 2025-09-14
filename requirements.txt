@@ -1,0 +1,20 @@
+certifi==2025.8.3
+cffi==1.17.1
+charset-normalizer==3.4.2
+cryptography==45.0.6
+idna==3.10
+javascript==1!1.2.2
+msal==1.33.0
+mutf8==1.0.6
+numpy==2.0.2
+pandas==2.3.1
+pycparser==2.22
+pyCraft @ git+https://github.com/ammaraskar/pyCraft.git@bcd156e83bd35fb2fdc6cfa64f97bfc96d7cc1a1
+PyJWT==2.10.1
+PyNBT==3.1.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.4
+six==1.17.0
+tzdata==2025.2
+urllib3==2.5.0

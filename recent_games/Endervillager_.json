@@ -1,0 +1,23 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757392490184_BEDWARS_EIGHT_TWO_Toro",
+      "timestamp": 1757392490184,
+      "mode": "doubles",
+      "map": "Toro"
+    },
+    {
+      "game_id": "1757391692210_BEDWARS_EIGHT_TWO_Slumber",
+      "timestamp": 1757391692210,
+      "mode": "doubles",
+      "map": "Slumber"
+    },
+    {
+      "game_id": "1757391244647_BEDWARS_EIGHT_TWO_Slumber",
+      "timestamp": 1757391244647,
+      "mode": "doubles",
+      "map": "Slumber"
+    }
+  ],
+  "api_enabled": true
+}

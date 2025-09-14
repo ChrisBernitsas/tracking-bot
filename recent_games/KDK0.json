@@ -1,0 +1,125 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757266635769_BEDWARS_EIGHT_TWO_Arid",
+      "date": "Sep 07, 2025 01:37 PM",
+      "timestamp": 1757266635769,
+      "mode": "doubles",
+      "map": "Arid"
+    },
+    {
+      "game_id": "1757266605202_BEDWARS_EIGHT_TWO_Scorched Sands",
+      "date": "Sep 07, 2025 01:36 PM",
+      "timestamp": 1757266605202,
+      "mode": "doubles",
+      "map": "Scorched Sands"
+    },
+    {
+      "game_id": "1757266469514_BEDWARS_EIGHT_TWO_Fruitbrawl",
+      "date": "Sep 07, 2025 01:34 PM",
+      "timestamp": 1757266469514,
+      "mode": "doubles",
+      "map": "Fruitbrawl"
+    },
+    {
+      "game_id": "1757201796810_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Sep 06, 2025 07:36 PM",
+      "timestamp": 1757201796810,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757201482423_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Sep 06, 2025 07:31 PM",
+      "timestamp": 1757201482423,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1757201311935_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Sep 06, 2025 07:28 PM",
+      "timestamp": 1757201311935,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756621083590_BEDWARS_FOUR_THREE_Sky Festival",
+      "date": "Aug 31, 2025 02:18 AM",
+      "timestamp": 1756621083590,
+      "mode": "threes",
+      "map": "Sky Festival"
+    },
+    {
+      "game_id": "1756620514160_BEDWARS_FOUR_THREE_Sky Festival",
+      "date": "Aug 31, 2025 02:08 AM",
+      "timestamp": 1756620514160,
+      "mode": "threes",
+      "map": "Sky Festival"
+    },
+    {
+      "game_id": "1756620147632_BEDWARS_FOUR_THREE_Sky Festival",
+      "date": "Aug 31, 2025 02:02 AM",
+      "timestamp": 1756620147632,
+      "mode": "threes",
+      "map": "Sky Festival"
+    },
+    {
+      "game_id": "1756517776445_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Aug 29, 2025 09:36 PM",
+      "timestamp": 1756517776445,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756517197716_BEDWARS_EIGHT_TWO_Gelato",
+      "date": "Aug 29, 2025 09:26 PM",
+      "timestamp": 1756517197716,
+      "mode": "doubles",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1755103819186_BEDWARS_TWO_ONE_DUELS_RUSH_Outpost",
+      "date": "Aug 13, 2025 09:50 AM",
+      "timestamp": 1755103819186,
+      "mode": "BEDWARS_TWO_ONE_DUELS_RUSH",
+      "map": "Outpost"
+    },
+    {
+      "game_id": "1755103628613_BEDWARS_TWO_ONE_DUELS_Lion's Temple",
+      "date": "Aug 13, 2025 09:47 AM",
+      "timestamp": 1755103628613,
+      "mode": "BEDWARS_TWO_ONE_DUELS",
+      "map": "Lion's Temple"
+    },
+    {
+      "game_id": "1755056880574_BEDWARS_EIGHT_TWO_Nebuc",
+      "date": "Aug 12, 2025 08:48 PM",
+      "timestamp": 1755056880574,
+      "mode": "doubles",
+      "map": "Nebuc"
+    },
+    {
+      "game_id": "1754539776672_BEDWARS_EIGHT_TWO_Snails",
+      "date": "Aug 06, 2025 09:09 PM",
+      "timestamp": 1754539776672,
+      "mode": "doubles",
+      "map": "Snails"
+    },
+    {
+      "game_id": "1754539524211_BEDWARS_EIGHT_TWO_Snails",
+      "date": "Aug 06, 2025 09:05 PM",
+      "timestamp": 1754539524211,
+      "mode": "doubles",
+      "map": "Snails"
+    },
+    {
+      "game_id": "1754538464443_BEDWARS_EIGHT_TWO_Snails",
+      "date": "Aug 06, 2025 08:47 PM",
+      "timestamp": 1754538464443,
+      "mode": "doubles",
+      "map": "Snails"
+    }
+  ],
+  "api_enabled": true,
+  "last_updated": "Sep 09, 2025 01:04 PM"
+}

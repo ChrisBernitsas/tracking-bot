@@ -1,0 +1,1 @@
+worker: python KD_DEATH_BOT/bot.py

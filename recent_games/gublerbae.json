@@ -1,0 +1,104 @@
+{
+  "recent_games": [
+    {
+      "game_id": "1757369212738_BEDWARS_EIGHT_ONE_Snails",
+      "date": "Sep 08, 2025 06:06 PM",
+      "timestamp": 1757369212738,
+      "mode": "solos",
+      "map": "Snails"
+    },
+    {
+      "game_id": "1757358041831_BEDWARS_EIGHT_ONE_Snails",
+      "date": "Sep 08, 2025 03:00 PM",
+      "timestamp": 1757358041831,
+      "mode": "solos",
+      "map": "Snails"
+    },
+    {
+      "game_id": "1756584618667_BEDWARS_EIGHT_ONE_Gelato",
+      "date": "Aug 30, 2025 04:10 PM",
+      "timestamp": 1756584618667,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756429837791_BEDWARS_EIGHT_ONE_Gelato",
+      "date": "Aug 28, 2025 09:10 PM",
+      "timestamp": 1756429837791,
+      "mode": "solos",
+      "map": "Gelato"
+    },
+    {
+      "game_id": "1756429401853_BEDWARS_EIGHT_ONE_Speedway",
+      "date": "Aug 28, 2025 09:03 PM",
+      "timestamp": 1756429401853,
+      "mode": "solos",
+      "map": "Speedway"
+    },
+    {
+      "game_id": "1755146977145_BEDWARS_FOUR_FOUR_Archway",
+      "date": "Aug 13, 2025 09:49 PM",
+      "timestamp": 1755146977145,
+      "mode": "fours",
+      "map": "Archway"
+    },
+    {
+      "game_id": "1755143014524_BEDWARS_FOUR_FOUR_Tengshe",
+      "date": "Aug 13, 2025 08:43 PM",
+      "timestamp": 1755143014524,
+      "mode": "fours",
+      "map": "Tengshe"
+    },
+    {
+      "game_id": "1755142524592_BEDWARS_FOUR_FOUR_Antenna",
+      "date": "Aug 13, 2025 08:35 PM",
+      "timestamp": 1755142524592,
+      "mode": "fours",
+      "map": "Antenna"
+    },
+    {
+      "game_id": "1754972575698_BEDWARS_FOUR_FOUR_Nostalgia",
+      "date": "Aug 11, 2025 09:22 PM",
+      "timestamp": 1754972575698,
+      "mode": "fours",
+      "map": "Nostalgia"
+    },
+    {
+      "game_id": "1754972042835_BEDWARS_FOUR_FOUR_Antenna",
+      "date": "Aug 11, 2025 09:14 PM",
+      "timestamp": 1754972042835,
+      "mode": "fours",
+      "map": "Antenna"
+    },
+    {
+      "game_id": "1754971389406_BEDWARS_FOUR_FOUR_Mystery",
+      "date": "Aug 11, 2025 09:03 PM",
+      "timestamp": 1754971389406,
+      "mode": "fours",
+      "map": "Mystery"
+    },
+    {
+      "game_id": "1754812815296_BEDWARS_FOUR_FOUR_Horizon",
+      "date": "Aug 10, 2025 01:00 AM",
+      "timestamp": 1754812815296,
+      "mode": "fours",
+      "map": "Horizon"
+    },
+    {
+      "game_id": "1754812545343_BEDWARS_FOUR_FOUR_Horizon",
+      "date": "Aug 10, 2025 12:55 AM",
+      "timestamp": 1754812545343,
+      "mode": "fours",
+      "map": "Horizon"
+    },
+    {
+      "game_id": "1754812233779_BEDWARS_FOUR_FOUR_Graveship",
+      "date": "Aug 10, 2025 12:50 AM",
+      "timestamp": 1754812233779,
+      "mode": "fours",
+      "map": "Graveship"
+    }
+  ],
+  "api_enabled": false,
+  "last_updated": "Sep 09, 2025 01:05 PM"
+}
